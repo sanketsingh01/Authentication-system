@@ -1,4 +1,10 @@
-# 🔐 Authentication System
+<h1 align="center">  🔐 Authentication System </h1>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/@Sanket_singh-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanket-singh-5359732b8) &nbsp;&nbsp; [![X](https://img.shields.io/badge/@SanketS89137690-black.svg?logo=X&logoColor=white)](https://x.com/@SanketS89137690) &nbsp;&nbsp; [![email](https://img.shields.io/badge/vt118452@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:vt118452@gmail.com)
+
+</div>
 
 ## 🚀 Overview
 
@@ -68,12 +74,16 @@ python app.py  # For Python
 
 ## 🔗 API Endpoints
 
+<div align="center">
+
 | ⚡ Method | 🌐 Endpoint | 📝 Description        |
 | --------- | ----------- | --------------------- |
 | 📨 POST   | `/register` | 📝 User registration  |
 | 🔑 POST   | `/login`    | 🔓 User login         |
 | 👤 GET    | `/profile`  | 📄 Fetch user profile |
 | 🚪 POST   | `/logout`   | 🔒 User logout        |
+
+</div>
 
 ## 🤝 Contributing
 
